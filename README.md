@@ -12,6 +12,7 @@ or deactivated.
 
 * Josh Ingeniero (jingenie@cisco.com)
 * Monica Acosta (moacosta@cisco.com)
+* Robert Landires (rlandire@cisco.com)
 
 ## Solution Components
 * Flask
