@@ -25,7 +25,7 @@ or deactivated.
 
 #### Clone the repo
 ```console
-$ git clone https://wwwin-github.cisco.com/gve/vsmart-policy-scheduler.git
+$ git clone https://github.com/gve-sw/vsmart-policy-scheduler
 ```
 
 ### Python
